@@ -1,0 +1,13 @@
+body  {
+	font: 1em Ariel;
+	background: #e6f3ff;
+	
+}
+
+.container {
+	column-width: 100px;
+	margin: 50px;
+	column-gap: 180px;
+	column-rule: 2px dashed rgba(0, 0, 0, .5)
+}
+
